@@ -47,6 +47,10 @@ Hardware Components
 
 - Breadboard, Jumper Wires, 9V Power Source
 
+License
+Originally forked from SambhavSaxena-1107/Health-Monitoring-System
+Modified and documented by @salfayoumi
+
 Cloud Integration
 - Platform: ThingSpeak
 
